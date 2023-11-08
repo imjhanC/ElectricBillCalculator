@@ -17,3 +17,16 @@ Welcome to Electric Bill Calculator ! You may use this calculator to calculate y
 - The application can be found as ElectricBillCalculator.JAR 
 - only download `JAR` file !
 
+##　電源計算機
+私が作った電源計算機の利用へようこそう！　この計算機は毎月の電源利用率を計算できます。
+
+##　現在バージョジ
+- `バージョン １.0`: 基本的な計算の機能を確かめました。
+
+##　利用できる場合
+- Intel Core duo 2 コンピューター
+- Java SDK と ｊｄｋ付くパソコン
+
+## ダウンロード
+- ダウンロードファイルは ElectricBillCalculator.JAR 付く　ファイルをダウンロードできます。
+- `注意`　JAR フォーマットのファイルでアップを利用することができます。
