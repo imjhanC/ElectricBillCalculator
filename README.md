@@ -18,7 +18,7 @@ Welcome to Electric Bill Calculator ! You may use this calculator to calculate y
 - only download `JAR` file !
 
 ##　電源計算機
-私が作った電源計算機の利用へようこそう！　この計算機は毎月の電源利用率を計算できます。
+- 私が作った電源計算機の利用へようこそう！　この計算機は毎月の電源利用率を計算できます。
 
 ##　現在バージョジ
 - `バージョン １.0`: 基本的な計算の機能を確かめました。
