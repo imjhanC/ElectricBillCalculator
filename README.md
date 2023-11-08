@@ -1,3 +1,4 @@
+English / 英語
 ## Electric Bill Calculator
 
 Welcome to Electric Bill Calculator ! You may use this calculator to calculate your Electric Bill
@@ -17,7 +18,9 @@ Welcome to Electric Bill Calculator ! You may use this calculator to calculate y
 - The application can be found as ElectricBillCalculator.JAR 
 - only download `JAR` file !
 
-## 電源計算機
+
+日本語/ Japanese
+## 電源計算機について
 - 私が作った電源計算機の利用へようこそう！　この計算機は毎月の電源利用率を計算できます。
 
 ## 現在バージョジ
@@ -25,7 +28,7 @@ Welcome to Electric Bill Calculator ! You may use this calculator to calculate y
 
 ## 利用できる場合
 - Intel Core duo 2 コンピューター
-- Java SDK と ｊｄｋ付くパソコン
+- Java SDK や JDK付くパソコン
 
 ## ダウンロード
 - ダウンロードファイルは ElectricBillCalculator.JAR 付く　ファイルをダウンロードできます。
